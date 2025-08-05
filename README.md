@@ -4,11 +4,9 @@
 
 ### **Language** : C++
 
-### **Description** :
+### **Description** : 
 
-
-   Demo (video Link)  : https://www.youtube.com/watch?v=Myn-1rIixgg
-
+This project is a simple Bank Management System implemented in C++ using fundamental data structures such as AVL Trees and Linked Lists. It allows users to perform basic banking operations like creating accounts, viewing account details, depositing and withdrawing money, and managing account records efficiently. The system demonstrates the practical application of data structures for managing and organizing banking data, making it a useful learning tool for students and beginners in data structures and C++ programming.
 
 ### **To Run this Code** :
 
